@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GCM_Modle</string>
+
+    <string name="notification_info">notification_info</string>
+
+    <!-- google gcm info -->
+    <string name="google_app_id"></string>
+    <string name="google_gcm_sender_id"></string>
+
+</resources>
